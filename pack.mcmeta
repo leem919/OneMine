@@ -1,8 +1,7 @@
 {
   "pack": {
-    "description": {
-      "text": "A OneShot-themed resource pack!"
-    },
-    "pack_format": 15
+    "description": "A OneShot-themed resource pack!",
+    "min_format": 75.0,
+    "max_format": 75.0
   }
 }
